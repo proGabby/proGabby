@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Willie, Inimfon
-- 👀 I’m interested in Mobile apps, Backend Development and Web3
-- 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on any Flutter, NodeJs or Go lang projects.
+- 👀 I’m interested in Mobile apps, Backend Development and Web3.
+- 🌱 I’m currently working actively with Dart/Flutter and Typescript/Nodejs/Express.
+- 💞️ I’m looking to collaborate on any Flutter, NodeJs or Go projects.
 - 📫 Reach me on twitter @gaby_wills
 
 <!---
