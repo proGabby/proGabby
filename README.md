@@ -1,8 +1,72 @@
-- 👋 Hi, I’m Willie, Inimfon
-- 👀 I’m interested in Mobile apps, Backend Development and Web3.
-- 🌱 I’m currently working actively with Dart/Flutter and Typescript/Nodejs/Express.
-- 💞️ I’m looking to collaborate on any Flutter, NodeJs or Go projects.
-- 📫 Reach me on twitter @gaby_wills
+# Hi, I'm Inimfon 👋
+
+**Flutter Developer • Backend Engineer • Technical Writer**
+
+I build mobile apps, design backend systems, and write technical content that makes complex ideas simple and usable.
+
+---
+
+## What I Do
+
+- Build scalable cross-platform apps with Flutter  
+- Design and develop backend systems (APIs, real-time services)  
+- Write technical content (tutorials, deep dives, API docs)  
+- Break down complex engineering concepts into clear explanations  
+
+---
+
+## Tech Stack
+
+**Mobile**
+- Flutter
+- Dart  
+
+**Backend**
+- Node.js
+- Go (Golang)
+- Express.js  
+
+**Database**
+- MongoDB  
+- PostgreSQL  
+
+**Tools & Platforms**
+- Docker
+- kubernetes
+- Firebase
+- AWS
+- Microsoft Azure
+  
+---
+
+## Writing
+
+I enjoy writing about software engineering, especially where clarity is needed.
+
+- Tutorials  
+- How-to guides  
+- API documentation  
+- Deep dives into backend + Flutter  
+
+> Focus: AI systems, backend architecture, developer tooling, and data-related concepts     
+
+---
+
+## Currently
+
+- Learning AI Engineering  
+- Building Growmie  
+- Writing about AI + developer workflows  
+- Exploring backend systems with Go  
+
+---
+
+## Reach Me
+
+- Portfolio: [Visit my portfolio](https://inimfon-willie.vercel.app/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/willie-inimfon/)
+- email: [My email](inimfonwillie@gmail.com)
+  
 
 <!---
 proGabby/proGabby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
