@@ -55,7 +55,8 @@ I enjoy writing about software engineering, especially where clarity is needed.
 ## Currently
 
 - Learning AI Engineering  
-- Building Growmie  
+- Building [Growmie](https://play.google.com/store/apps/details?id=com.growmie.app)
+- Building Accord
 - Writing about AI + developer workflows  
 - Exploring backend systems with Go  
 
@@ -63,7 +64,7 @@ I enjoy writing about software engineering, especially where clarity is needed.
 
 ## Reach Me
 
-- Portfolio: [Visit my portfolio](https://inimfon-willie.vercel.app/)
+- Portfolio: [Visit my portfolio](https://inimfonwillie.com/)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/willie-inimfon/)
 - email: [My email](inimfonwillie@gmail.com)
   
