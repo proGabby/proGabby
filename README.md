@@ -24,7 +24,8 @@ I build mobile apps, design backend systems, and write technical content that ma
 **Backend**
 - Node.js
 - Go (Golang)
-- Express.js  
+- Express.js
+- Spring Boot
 
 **Database**
 - MongoDB  
