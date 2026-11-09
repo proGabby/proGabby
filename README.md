@@ -1,6 +1,6 @@
 # Hi, I'm Inimfon 👋
 
-**Flutter Developer • Backend Engineer • Technical Writer**
+**Mobile Developer • Backend Engineer • Technical Writer**
 
 I build mobile apps, design backend systems, and write technical content that makes complex ideas simple and usable.
 
